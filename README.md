@@ -11,3 +11,11 @@ El comando `git add` agrega un cambio en el directorio de trabajo al área de pr
 
 ### git status
 El comando `git status` muestra el estado del directorio de trabajo y el área de preparación. Le permite ver qué cambios se han establecido, cuáles no y qué archivos no están siendo tomados en cuenta por Git.
+
+### git log
+
+
+## Preguntas interesantes
+### Si se elimina una rama
+### ¿Qué pasa si al querer fusionar 2 ramas, la de destino ha realizado cambios en las mismas lineas del fichero que queremos fusionar?
+Se genera un conflicto, un conflicto es...
