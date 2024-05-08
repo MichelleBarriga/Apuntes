@@ -13,6 +13,7 @@ El comando `git add` agrega un cambio en el directorio de trabajo al área de pr
 El comando `git status` muestra el estado del directorio de trabajo y el área de preparación. Le permite ver qué cambios se han establecido, cuáles no y qué archivos no están siendo tomados en cuenta por Git.
 
 ### git log
+El comando `git log` muestra los commits realizados.
 
 
 ## Preguntas interesantes
