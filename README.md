@@ -20,6 +20,10 @@ El comando `git log` muestra los commits realizados.
 
 
 ## Preguntas interesantes
+### ¿Cuáles son los estados en git?
+- Modified
+- Staged
+- Committed
 ### Si se elimina una rama
 ### ¿Qué pasa si al querer fusionar 2 ramas, la de destino ha realizado cambios en las mismas lineas del fichero que queremos fusionar?
 Se genera un conflicto, un conflicto es...
