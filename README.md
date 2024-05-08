@@ -25,7 +25,9 @@ El comando `git restore` restaura la versión previa de un fichero.
 El comando `git branch` sirve para crear ramas.
 
 ### git switch
-El comando `git switch` es utilizado para movernos de una rama a otra. 
+El comando `git switch` es utilizado para movernos de una rama a otra. \
+El comando `git switch -c` crea una rama y te lleva a esta en un solo paso.
+
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
 - Modified
