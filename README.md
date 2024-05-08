@@ -21,6 +21,9 @@ El comando `git log` muestra los commits realizados.
 ### git restore
 El comando `git restore` restaura la versión previa de un fichero.
 
+### git branch
+El comando `git branch` sirve para crear ramas.
+
 
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
