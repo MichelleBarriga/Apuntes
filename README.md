@@ -1,4 +1,5 @@
 # Apuntes
+
 ## Comandos
 ### git init
 El comando `git init` es utilizado para iniciar un repositorio dentro de una carpeta ya existente. Y si se quiere crear un proyecto desde 0 se usa el comando `git init nombre-proyecto`.
@@ -51,3 +52,8 @@ Utilizamos `git merge` para fusionar los cambios de una rama a la que nos encont
 
 ### ¿Qué pasa si al querer fusionar 2 ramas, la de destino ha realizado cambios en las mismas lineas del fichero que queremos fusionar?
 Se genera un conflicto, un conflicto es una situación el la que git no es capaz de determinar que cambio tiene que mantener.
+
+### Diferencia entre Git y GitHub
+- **Git** es el sistema de control de versiones.
+- **GitHub** es un servicio de alojamiento en la nube de código fuente.
+
