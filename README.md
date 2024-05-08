@@ -18,6 +18,9 @@ El comando `git status` muestra el estado del directorio de trabajo y el área d
 ### git log
 El comando `git log` muestra los commits realizados.
 
+### git restore
+El comando `git restore` restaura la versión previa de un fichero.
+
 
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
