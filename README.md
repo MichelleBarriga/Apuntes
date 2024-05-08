@@ -29,6 +29,11 @@ El comando `git restore` restaura la versión previa de un fichero.
 - Committed
 ### ¿Qué es el HEAD?
 > Es el puntero que referencia el punto actual del historial de cambios del repositorio en el que estas trabajando.
+### ¿Para qué sirve una rama en git?
+- Desarrollar nuevas funcionalidades.
+- Corregir errores.
+- Experimentar nuevas ideas en un área segura.
+- etc.
 ### Si se elimina una rama
 ### ¿Qué pasa si al querer fusionar 2 ramas, la de destino ha realizado cambios en las mismas lineas del fichero que queremos fusionar?
 Se genera un conflicto, un conflicto es...
