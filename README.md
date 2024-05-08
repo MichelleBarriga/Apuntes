@@ -24,6 +24,10 @@ El comando `git restore` restaura la versión previa de un fichero.
 ### git branch
 El comando `git branch` sirve para crear ramas.
 
+
+#### git branch --delete
+Para eliminar ramas se usa: `git brach --delete`
+
 ### git switch
 El comando `git switch` es utilizado para movernos de una rama a otra. \
 El comando `git switch -c` crea una rama y te lleva a esta en un solo paso.
