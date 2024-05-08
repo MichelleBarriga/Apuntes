@@ -48,6 +48,6 @@ Utilizamos `git merge` para fusionar los cambios de una rama a la que nos encont
 - Corregir errores.
 - Experimentar nuevas ideas en un área segura.
 - etc.
-### Si se elimina una rama
+
 ### ¿Qué pasa si al querer fusionar 2 ramas, la de destino ha realizado cambios en las mismas lineas del fichero que queremos fusionar?
-Se genera un conflicto, un conflicto es...
+Se genera un conflicto, un conflicto es una situación el la que git no es capaz de determinar que cambio tiene que mantener.
