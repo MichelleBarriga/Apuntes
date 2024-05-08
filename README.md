@@ -28,6 +28,10 @@ El comando `git branch` sirve para crear ramas.
 El comando `git switch` es utilizado para movernos de una rama a otra. \
 El comando `git switch -c` crea una rama y te lleva a esta en un solo paso.
 
+### git merge
+Utilizamos `git merge` para fusionar los cambios de una rama a la que nos encontramos en ese momento.
+
+
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
 - Modified
