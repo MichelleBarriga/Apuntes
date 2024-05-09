@@ -35,9 +35,13 @@ El comando `git switch -c` crea una rama y te lleva a esta en un solo paso.
 
 ### git merge
 Utilizamos `git merge` para fusionar los cambios de una rama a la que nos encontramos en ese momento.
+### git remote
 
-### git remote add
+#### git remote add
 El comando `git remote add <alias> <direccion>` sirve para enlazar un repositorio local con uno remoto.
+
+#### git remote prune
+El comando `git remote prune <alias>` sirve para eliminar ramas de mi repositorio local que ya no se usan en el reporsitorio remoto.
 
 ### git push
 El comando `git push` permite enviar los cambios de un repositorio local a
