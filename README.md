@@ -47,6 +47,9 @@ El comando `git remote prune <alias>` sirve para eliminar ramas de mi repositori
 El comando `git push` permite enviar los cambios de un repositorio local a
 un repositorio remoto. Se le pasa 2 parametros (el alias del repositorio remoto y la rama sobre la que queremos enviar los cambios) `git push <alias> <rama>`.
 
+### git fetch
+Se utiliza `git fetch` para actualizar cambios.
+
 
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
