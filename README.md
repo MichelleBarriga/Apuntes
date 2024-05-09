@@ -56,7 +56,8 @@ Se utiliza `git fetch` para actualizar cambios.
 ### git clone
 Se utiliza `git clone <url_repositorio>` para clonar un repositorio remoto.
 
-
+### git pull
+El comando `git pull` se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
 
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
