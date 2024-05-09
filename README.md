@@ -39,6 +39,11 @@ Utilizamos `git merge` para fusionar los cambios de una rama a la que nos encont
 ### git remote add
 El comando `git remote add <alias> <direccion>` sirve para enlazar un repositorio local con uno remoto.
 
+### git push
+El comando `git push` permite enviar los cambios de un repositorio local a
+un repositorio remoto. Se le pasa 2 parametros (el alias del repositorio remoto y la rama sobre la que queremos enviar los cambios) `git push <alias> <rama>`.
+
+
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
 - Modified
