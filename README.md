@@ -50,6 +50,9 @@ un repositorio remoto. Se le pasa 2 parametros (el alias del repositorio remoto 
 ### git fetch
 Se utiliza `git fetch` para actualizar cambios.
 
+### git clone
+Se utiliza `git clone <url_repositorio>` para clonar un repositorio remoto.
+
 
 ## Preguntas interesantes
 ### ¿Cuáles son los estados en git?
