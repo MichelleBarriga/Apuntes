@@ -81,3 +81,5 @@ Se genera un conflicto, un conflicto es una situación el la que git no es capaz
 ### ¿Por qué no me deja hacer push?
 Normalmente esto se debe a que hay cambios en repositorio remoto que no hay en el repositorio local, esto ocurre generalmente al trabajar con un equipo de desarrolladores.
 
+### ¿Qué es un pull request?
+Es una petición de cambios que se envía al repositorio original.
