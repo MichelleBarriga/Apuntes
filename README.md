@@ -1,5 +1,5 @@
 # Apuntes
-
+Estos apuntes le pertenecen a Valeria Michelle Barriga Rios.
 ## Comandos
 ### git init
 El comando `git init` es utilizado para iniciar un repositorio dentro de una carpeta ya existente. Y si se quiere crear un proyecto desde 0 se usa el comando `git init nombre-proyecto`.
@@ -87,3 +87,8 @@ Es una petición de cambios que se envía al repositorio original.
 
 ### ¿Para qué sirve marcar un pull request como draft?
 Para dar visibilidad a los cambios que quieres realizar, y puedas empezar a recibir comentarios pero dejas bien claro que todavía no está terminado.
+
+### Tipos de Flujo de Trabajo
+- GitHub Flow
+- Trunk Based Development
+- Ship / Show / Ask
