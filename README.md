@@ -27,7 +27,10 @@ El comando `git branch` sirve para crear ramas.
 
 
 #### git branch --delete
-Para eliminar ramas se usa: `git brach --delete`
+Para eliminar ramas se usa: `git brach --delete`.
+
+#### git branch -a
+Para poder visualizar las ramas tanto remotas como locales se usa: `git branch -a`.
 
 ### git switch
 El comando `git switch` es utilizado para movernos de una rama a otra. \
@@ -52,6 +55,7 @@ Se utiliza `git fetch` para actualizar cambios.
 
 ### git clone
 Se utiliza `git clone <url_repositorio>` para clonar un repositorio remoto.
+
 
 
 ## Preguntas interesantes
