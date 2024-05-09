@@ -83,3 +83,6 @@ Normalmente esto se debe a que hay cambios en repositorio remoto que no hay en e
 
 ### ¿Qué es un pull request?
 Es una petición de cambios que se envía al repositorio original.
+
+### ¿Para qué sirve marcar un pull request como draft?
+Para dar visibilidad a los cambios que quieres realizar, y puedas empezar a recibir comentarios pero dejas bien claro que todavía no está terminado.
